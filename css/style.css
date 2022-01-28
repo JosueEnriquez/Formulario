@@ -50,6 +50,7 @@ body {
   background-color: #242846;
   border-radius: 30px;
   border: none;
+  caret-color: #eeeeee;
 }
 
 .input:focus-visible {
@@ -59,8 +60,6 @@ body {
 .input::placeholder {
   color: #42476e;
 }
-
-.input::focus
 
 .input-color {
   width: 34px;
