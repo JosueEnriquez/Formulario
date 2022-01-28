@@ -52,6 +52,10 @@ body {
   border: none;
 }
 
+.input:focus-visible {
+  outline: none;
+}
+
 .input::placeholder {
   color: #42476e;
 }
